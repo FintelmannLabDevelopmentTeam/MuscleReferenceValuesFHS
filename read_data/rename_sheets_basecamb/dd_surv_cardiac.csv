@@ -1,0 +1,9 @@
+old_column_name,new_data_type,new_column_name,coding
+IDTYPE,integer,,
+ID,integer,,
+chd,factor,,
+chddate,date,,
+chf,factor,,
+chfdate,date,,
+cvd,factor,,
+cvddate,date,,

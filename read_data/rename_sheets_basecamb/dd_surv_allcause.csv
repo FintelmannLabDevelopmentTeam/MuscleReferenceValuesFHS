@@ -1,0 +1,10 @@
+old_column_name,new_data_type,new_column_name,coding
+IDTYPE,integer,,
+ID,integer,,
+CHDDEATH,factor,,
+CVDDEATH,factor,,
+DATEDTH,date,,
+DTHRVWD,,,
+LASTATT,date,date_last_exam,
+LASTCON,date,date_last_contact,
+LASTSOE,date,date_last_record,

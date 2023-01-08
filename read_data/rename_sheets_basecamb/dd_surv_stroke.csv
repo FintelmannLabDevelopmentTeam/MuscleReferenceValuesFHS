@@ -1,0 +1,7 @@
+old_column_name,new_data_type,new_column_name,coding
+idtype,integer,IDTYPE,
+id,integer,ID,
+stroke,factor,,
+strokedate,date,,
+stroke_type,,,
+sr_LAC_ABI,,,

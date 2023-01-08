@@ -1,0 +1,51 @@
+﻿level,label
+140,Lip
+141,Tongue
+142,Major Salivary Gland
+143,Gum
+144,Floor of mouth 
+145,Other and unspecified parts of mouth 
+146,Oropharynx 
+147,Nasopharynx 
+148,Hypopharynx 
+149,"Pharynx and ill-defined sites in lip, oral cavity and pharynx "
+150,Esophagus 
+151,Stomach 
+152,Small intestine 
+153,Colon 
+154,"Rectum, rectosigmoid junction, anal canal and anus, not otherwise specified "
+155,Liver and intrahepatic bile ducts 
+156,Gallbladder and extrahepatic bile ducts 
+157,Pancreas 
+158,Retroperitoneum and peritoneum 
+159,Other and ill-defined sites within digestive organs and peritoneum 
+160,"Nasal cavities, accessory sinuses, middle ear and inner ear "
+161,Larynx 
+162,"Trachea bronchus, and lung "
+163,Pleura
+164,"Thymus, heart and mediastinum"
+165,Other and ill-defined sites within respiratory system and intrathoracic organs 
+169,Hematopoietic and reticuloendothelial systems 
+170,"Bones, joints and articular cartilage "
+171,"Connective, subcutaneous and other soft tissues "
+173,"Skin (excludes skin of labia majora, skin of vulva, skin of penis and skin of scrotum) "
+174, Female breast (excludes skin of breast) 
+175, Male breast (excludes skin of breast) 
+179," Uterus, not otherwise specified "
+180, Cervix uteri 
+181,Placenta 
+182,Corpus uteri or endometrium 
+183,"Ovary, fallopian tube and broad ligament "
+184,Other and unspecified female genital organs 
+185, Prostate gland 
+186, Testis 
+187, Penis and other male genital organs 
+188,Urinary bladder 
+189,Kidney and other urinary organs 
+190,Eye and lacrimal gland 
+191,Brain 
+193,Thyroid gland 
+194,Other endocrine glands 
+195,Other ill-defined sites 
+196,Lymph nodes 
+199,Unknown

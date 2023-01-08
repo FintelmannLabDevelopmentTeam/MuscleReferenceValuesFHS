@@ -1,0 +1,24 @@
+key,path
+CTdate,Framingham Data Files/vr_ctdates_2011_m_0715.sas7bdat
+agesex,Framingham Data Files/vr_dates_2019_a_1175.sas7bdat
+gen3exam1,Framingham Data Files/e_exam_ex01_3_0086_v2.sas7bdat
+gen3omni2exam2,Framingham Data Files/e_exam_2011_m_0017_v1.sas7bdat
+offspringexam7,Framingham Data Files/e_exam_ex07_1_0085_v1.sas7bdat
+offspringexam8,Framingham Data Files/e_exam_ex08_1_0005.sas7bdat
+cancer,Framingham Data Files/vr_cancer_2019_a_1162_v1.sas7bdat
+surv_cardiac,Framingham Data Files/vr_survcvd_2018_a_1267.sas7bdat
+surv_stroke,Framingham Data Files/vr_svstk_2018_a_1269.sas7bdat
+surv_allcause,Framingham Data Files/vr_survdth_2018_a_1268.sas7bdat
+race,Framingham Data Files/vr_raceall_2008_a_0712.sas7bdat
+pftoffspring,Framingham Data Files/t_pft_ex08_1_0453.sas7bdat
+pftgen3omni,Framingham Data Files/t_pftprealb_2011_m_0646.sas7bdat
+laboffspring,Framingham Data Files/l_fhslab_ex09_1b_0658.sas7bdat
+labgen3omni,Framingham Data Files/l_fhslab_2011_m_0656.sas7bdat
+offspringexam9omni1exam4,Framingham Data Files/e_exam_ex09_1b_0844s.sas7bdat
+gen3omni2exam3,Framingham Data Files/e_exam_ex03_3b_1069s.sas7bdat
+omni1exam3,Framingham Data Files/e_exam_ex03_7_0426s.sas7bdat
+assessed_df,Framingham Data Files/assessed_df.csv
+labs1,Framingham Data Files/l_fhslab_2011_m_0656.sas7bdat
+labs2,Framingham Data Files/l_fhslab_ex09_1b_0658.sas7bdat
+cvd_data,Framingham Data Files/vr_soe_2019_a_1217.sas7bdat
+stroke_data,Framingham Data Files/vr_svstktia_2018_a_1270.sas7bdat
