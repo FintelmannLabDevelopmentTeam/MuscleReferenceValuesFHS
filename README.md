@@ -16,8 +16,7 @@ To use these files, data sheets need to be linked. Edit the corresponding fields
     -   Holds the code responsible for calculating the Intraclass correlation coefficients and Cohen's kappa for inter- and intrareader agreement
 -   `centile_curves/Model_Centiles.Rmd`
     -   The code used to model and evaluate the different LMSP models used for centile curve and z score generation.
--   `Shiny/`
-    -   The code for the Shiny app.
+
 
 All other files hold various utility codes and will be called from the three files above, which serve as starting points for the different analyses.
 
